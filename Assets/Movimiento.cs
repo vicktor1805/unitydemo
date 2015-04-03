@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Movimiento : MonoBehaviour {
 
-    public float velocidadDespzamiento;
+    public float velocidadDespzamiento = null;
 	// Use this for initialization
 	void Start () {
 
